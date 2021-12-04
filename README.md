@@ -4,4 +4,4 @@ The Leave Management System consists of two portals Employee and Manager. The ma
 HTML, CSS, AngularJS, 
 Spring Boot, Spring Security, 
 MySQL
-![Screenshot (1)](https://user-images.githubusercontent.com/72142274/144712227-ef1e66a6-72b2-43e9-a2ba-f32a9e1e67f7.png)
+![image](https://user-images.githubusercontent.com/72194690/138240998-82c48cd6-387c-4ab7-8965-bbe67b32970e.png)
